@@ -32,7 +32,7 @@ export function EmergencyOverlay() {
               animate={{ y: 0, opacity: 1 }}
               exit={{ y: -100, opacity: 0 }}
               transition={{ type: "spring", damping: 25, stiffness: 300 }}
-              className="fixed top-4 left-1/2 -translate-x-1/2 z-[60] w-full max-w-2xl px-4"
+              className="fixed top-4 inset-x-0 mx-auto z-[60] w-full max-w-2xl px-4 flex justify-center"
             >
               <div className="bg-red-950/95 backdrop-blur-md border-2 border-red-500 rounded-2xl shadow-2xl shadow-red-500/30 overflow-hidden">
                 <div className="flex items-center gap-1 bg-red-500 px-4 py-1.5">
