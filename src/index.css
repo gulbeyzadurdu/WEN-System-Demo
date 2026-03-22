@@ -49,9 +49,6 @@
     --app-font-sans: 'Inter', system-ui, sans-serif;
   }
 
-  * {
-    @apply border-border;
-  }
 
   body {
     @apply font-sans antialiased bg-background text-foreground;
