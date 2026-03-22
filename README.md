@@ -1,3 +1,4 @@
+![WEN System Dashboard Preview](./public/opengraph.jpg)
 # 🌊 WEN System - Industrial Water Management Dashboard
 
 Bursa Organize Sanayi Bölgesi (BOSB) standartlarına uygun olarak geliştirilmiş; gerçek zamanlı su tüketimi, basınç takibi ve acil durum protokollerini yöneten endüstriyel bir paneldir.
